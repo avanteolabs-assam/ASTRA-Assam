@@ -3,11 +3,17 @@
 [![NESFIC 2026](https://img.shields.io/badge/NESFIC%202026-Government%20Track-blue.svg)](https://startup.assam.gov.in/nesfic26/problem-statements/nesfic-d-22)
 [![Challenge ID](https://img.shields.io/badge/Challenge-NESFIC--D--22-emerald.svg)](https://startup.assam.gov.in/nesfic26/problem-statements/nesfic-d-22)
 [![Department](https://img.shields.io/badge/Sponsor-ASSAC%20%7C%20Govt%20of%20Assam-cyan.svg)](https://startup.assam.gov.in/)
-[![Cloudflare Deployment](https://img.shields.io/badge/Live%20Demo-astra--assam.pages.dev-orange.svg)](https://astra-assam.pages.dev)
+[![Live Production Demo](https://img.shields.io/badge/Live%20Demo-astra.avanteolabs.com-orange.svg)](https://astra.avanteolabs.com)
+[![Lead Applicant](https://img.shields.io/badge/Lead%20Applicant-Dhruba%20Jyoti%20Bhuyan-indigo.svg)](https://astra.avanteolabs.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Live Production URL:** [https://astra-assam.pages.dev](https://astra-assam.pages.dev)  
-> **Printable Proof of Work PDF:** [https://astra-assam.pages.dev/proof_of_work_document.html](https://astra-assam.pages.dev/proof_of_work_document.html)  
+> **Lead Applicant:** **Dhruba Jyoti Bhuyan** (Principal System Architect)  
+> **Proprietary & Copyright:** **Avanteo Labs** (Copyright &copy; 2026 Avanteo Labs. All rights reserved.)  
+> **Live Production URL:** [https://astra.avanteolabs.com](https://astra.avanteolabs.com)  
+> **Official Technical Proposal (PDF):** [https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proposal.pdf](https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proposal.pdf)  
+> **Proof of Work & Evidence (PDF):** [https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf](https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf)  
+> **Full Web Proposal Document:** [https://astra.avanteolabs.com/proposal_document.html](https://astra.avanteolabs.com/proposal_document.html)  
+> **Proof of Work Printable HTML:** [https://astra.avanteolabs.com/proof_of_work_document.html](https://astra.avanteolabs.com/proof_of_work_document.html)  
 > **Official Submission for NESFIC-D-22 (North East Seva First Innovation Challenge 2026)**  
 > Sponsored by the **Assam State Space Application Centre (ASSAC)** and the **Department of Science, Technology & Climate Change, Government of Assam**.
 
@@ -80,10 +86,10 @@ The platform transforms existing CCTV surveillance cameras into real-time traffi
 ### Installation & Local Run
 ```bash
 # Clone the repository
-git clone https://github.com/RonHatibaruah/astra-assam.git
+git clone https://github.com/avanteolabs-assam/ASTRA-Assam.git
 
 # Navigate into project directory
-cd astra-assam
+cd ASTRA-Assam
 
 # Install dependencies
 npm install
@@ -103,13 +109,19 @@ Open your browser and navigate to `http://localhost:5173` (or the port indicated
 
 ## 📄 Proof of Work & Proposal Documentation
 
-- **Printable PDF Evidence Document:** Navigate to `http://localhost:5182/proof_of_work_document.html` and click **"Print / Save as PDF"** (formatted under 10 MB).
-- **Official 12-Section Proposal:** Click the **"Proposal"** button in the top navigation bar to read or copy all 12 proposal sections formatted for the Assam Startup portal.
+- **Live Production URL:** [https://astra.avanteolabs.com](https://astra.avanteolabs.com)
+- **Official Technical Proposal (PDF):** [https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proposal.pdf](https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proposal.pdf)
+- **Proof of Work & Evidence (PDF):** [https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf](https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf)
+- **Web Proposal Document:** [https://astra.avanteolabs.com/proposal_document.html](https://astra.avanteolabs.com/proposal_document.html)
+- **Printable Proof of Work Document:** [https://astra.avanteolabs.com/proof_of_work_document.html](https://astra.avanteolabs.com/proof_of_work_document.html)
 
 ---
 
 ## 🏛️ Sponsoring Authority & Attribution
 
-Developed for the **North East Seva First Innovation Challenge (NESFIC 2026)**  
-Sponsor: **Assam State Space Application Centre (ASSAC)**  
-Department: **Department of Science, Technology & Climate Change, Government of Assam**
+- **Lead Applicant:** Dhruba Jyoti Bhuyan (Principal System Architect)
+- **Proprietary & Copyright:** Avanteo Labs (Copyright &copy; 2026 Avanteo Labs. All rights reserved.)
+- **Developed for:** North East Seva First Innovation Challenge (NESFIC 2026) — Government Track
+- **Challenge ID:** NESFIC-D-22 (AI-Based Smart Transport Monitoring and Traffic Decision-Support System)
+- **Sponsor:** Assam State Space Application Centre (ASSAC)
+- **Department:** Department of Science, Technology & Climate Change, Government of Assam

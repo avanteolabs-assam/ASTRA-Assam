@@ -1,5 +1,5 @@
 const path = require('path');
-const puppeteer = require('/Users/kalyan/Downloads/2026/Sep2026/Data Centers and Way Head/node_modules/puppeteer-core');
+const puppeteer = require('/Users/kalyan/.npm/_npx/55158e48eb5c59f7/node_modules/puppeteer-core');
 
 async function generatePDFs() {
   console.log('⏳ Connecting to Google Chrome on port 9222...');

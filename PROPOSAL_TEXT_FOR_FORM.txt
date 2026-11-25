@@ -9,10 +9,10 @@ PROJECT TITLE:
 ASTRA-Assam: Automated Spatial-Temporal Real-time Analytics for Urban Mobility & 108 Emergency Green Wave Preemption
 
 PORTAL SUBMISSION URLS:
-- Live Prototype / Web URL: https://astra-assam.pages.dev/
+- Live Prototype / Web URL: https://astra.avanteolabs.com/
 - GitHub Repository URL: https://github.com/avanteolabs-assam/ASTRA-Assam
-- Official Proposal PDF URL: https://astra-assam.pages.dev/ASTRA_Assam_NESFIC_D22_Proposal.pdf
-- Proof of Work PDF URL: https://astra-assam.pages.dev/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf
+- Official Proposal PDF URL: https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proposal.pdf
+- Proof of Work PDF URL: https://astra.avanteolabs.com/ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf
 
 
 ================================================================================
@@ -109,7 +109,7 @@ The prototype interface is structured into four intuitive functional zones:
 - Right Action & Decision Support Panel: Adaptive signal controller adjustments, one-click emergency corridor activation, 60-minute predictive delay forecasts, and exportable report tools.
 
 Supporting Artifacts & Proof of Work:
-A functional, high-fidelity web application prototype has been developed and validated on simulated camera telemetry representing key Guwahati intersections. Benchmark tests demonstrate real-time vehicle detection at 31.8 FPS per video stream using TensorRT-accelerated edge inference with 92.4% classification accuracy. Live prototype available at https://astra-assam.pages.dev/
+A functional, high-fidelity web application prototype has been developed and validated on simulated camera telemetry representing key Guwahati intersections. Benchmark tests demonstrate real-time vehicle detection at 31.8 FPS per video stream using TensorRT-accelerated edge inference with 92.4% classification accuracy. Live prototype available at https://astra.avanteolabs.com/
 
 
 ================================================================================
@@ -439,4 +439,6 @@ The solution will be validated through a 30-day live corridor pilot along a sele
 
 ================================================================================
 END OF PROPOSAL SUBMISSION TEXT
+Lead Applicant: Dhruba Jyoti Bhuyan | Copyright © 2026 Avanteo Labs. All rights reserved.
+Live Production URL: https://astra.avanteolabs.com/
 ================================================================================

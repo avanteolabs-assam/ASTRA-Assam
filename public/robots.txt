@@ -8,5 +8,5 @@ Allow: /ASTRA_Assam_NESFIC_D22_Proposal.pdf
 Allow: /ASTRA_Assam_NESFIC_D22_Proof_of_Work.pdf
 
 # Host & Geographic Sitemap Declaration
-Host: https://astra-assam.pages.dev
-Sitemap: https://astra-assam.pages.dev/sitemap.xml
+Host: https://astra.avanteolabs.com
+Sitemap: https://astra.avanteolabs.com/sitemap.xml
